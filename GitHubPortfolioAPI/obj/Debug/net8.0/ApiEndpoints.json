@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "GitHubPortfolioAPI.Controllers.GitHubController",
+    "Method": "GetUserFollowers",
+    "RelativePath": "api/GitHub/followers/{userName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GitHubPortfolioAPI.Controllers.GitHubController",
+    "Method": "GetPortfolio",
+    "RelativePath": "api/GitHub/portfolio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GitHubPortfolioAPI.Controllers.GitHubController",
+    "Method": "GetUserRepositories",
+    "RelativePath": "api/GitHub/repos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GitHubPortfolioAPI.Controllers.GitHubController",
+    "Method": "SearchRepositories",
+    "RelativePath": "api/GitHub/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "user",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
