@@ -28,9 +28,9 @@ namespace GitHubPortfolioAPI.Controllers
         // חיפוש repositories ציבוריים לפי קריטריונים (שם, שפה, משתמש)
         [HttpGet("search")]
         public async Task<IActionResult> SearchRepositories(
-            [FromQuery] string query,
-            [FromQuery] string language,
-            [FromQuery] string user)
+            [FromQuery] string? query = null,
+            [FromQuery] string? language = null,
+            [FromQuery] string? user = null)
         {
             var repositories = await _gitHubService.SearchRepositoriesAsync(query, language, user);
             return Ok(repositories);

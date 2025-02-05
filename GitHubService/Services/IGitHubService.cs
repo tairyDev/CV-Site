@@ -10,7 +10,7 @@ namespace GitHubService.Services
     {
         Task<List<Repository>> GetUserRepositoriesAsync();
         Task<int> GetUserFollowersAsync(string userName);
-        Task<List<Repository>> SearchRepositoriesAsync(string query, string language, string user);
+        Task<List<Repository>> SearchRepositoriesAsync(string query, string languages, string user);
         Task<List<RepositoryDetails>> GetPortfolioAsync();
     }
 

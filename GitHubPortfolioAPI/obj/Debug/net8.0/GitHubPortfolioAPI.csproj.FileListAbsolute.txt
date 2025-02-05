@@ -55,3 +55,4 @@ C:\Users\eyaln\source\repos\GitHubPortfolioAPI\GitHubPortfolioAPI\obj\Debug\net8
 C:\Users\eyaln\source\repos\GitHubPortfolioAPI\GitHubPortfolioAPI\bin\Debug\net8.0\appsettings.Staging.json
 C:\Users\eyaln\source\repos\GitHubPortfolioAPI\GitHubPortfolioAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\eyaln\source\repos\GitHubPortfolioAPI\GitHubPortfolioAPI\bin\Debug\net8.0\Scrutor.dll
+C:\Users\eyaln\source\repos\GitHubPortfolioAPI\GitHubPortfolioAPI\obj\Debug\net8.0\GitHubPortfolioAPI.sourcelink.json

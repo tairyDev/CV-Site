@@ -7,12 +7,35 @@
       "RelativeMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|solutionrelative:githubservice\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubservice\\services\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|solutionrelative:githubservice\\services\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubportfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|solutionrelative:githubportfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubportfolioapi\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|solutionrelative:githubportfolioapi\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubservice\\services\\githubintegretionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|solutionrelative:githubservice\\services\\githubintegretionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eyaln\\AppData\\Roaming\\Microsoft\\UserSecrets\\9d83b49c-b9da-4f71-bac7-a3540ddf0e5f\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubservice\\services\\extenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|solutionrelative:githubservice\\services\\extenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubservice\\services\\dataentities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|solutionrelative:githubservice\\services\\dataentities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubservice\\services\\repositorydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|solutionrelative:githubservice\\services\\repositorydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubservice\\services\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|solutionrelative:githubservice\\services\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubportfolioapi\\cachedservices\\cachedgithubserivice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,35 +46,12 @@
       "RelativeMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|solutionrelative:githubportfolioapi\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubservice\\services\\dataentities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|solutionrelative:githubservice\\services\\dataentities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubservice\\services\\extenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|solutionrelative:githubservice\\services\\extenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubservice\\services\\repositorydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ABF3175-AEBD-44A8-BD66-BA832637C3E7}|GitHubService\\GitHubService.csproj|solutionrelative:githubservice\\services\\repositorydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubportfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|solutionrelative:githubportfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubportfolioapi\\githubportfolioapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|solutionrelative:githubportfolioapi\\githubportfolioapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubportfolioapi\\githubportfolioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|solutionrelative:githubportfolioapi\\githubportfolioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eyaln\\AppData\\Roaming\\Microsoft\\UserSecrets\\9d83b49c-b9da-4f71-bac7-a3540ddf0e5f\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubportfolioapi\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|solutionrelative:githubportfolioapi\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{634678B6-60E4-4932-AC99-F70F846BD904}|GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj|c:\\users\\eyaln\\source\\repos\\githubportfolioapi\\githubportfolioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -65,11 +65,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\GitHubService.cs",
+              "RelativeDocumentMoniker": "GitHubService\\Services\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\GitHubService.cs",
+              "RelativeToolTip": "GitHubService\\Services\\GitHubService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:29:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\eyaln\\AppData\\Roaming\\Microsoft\\UserSecrets\\9d83b49c-b9da-4f71-bac7-a3540ddf0e5f\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\9d83b49c-b9da-4f71-bac7-a3540ddf0e5f\\secrets.json",
+              "ToolTip": "C:\\Users\\eyaln\\AppData\\Roaming\\Microsoft\\UserSecrets\\9d83b49c-b9da-4f71-bac7-a3540ddf0e5f\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\9d83b49c-b9da-4f71-bac7-a3540ddf0e5f\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T20:10:21.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\Program.cs",
+              "RelativeToolTip": "GitHubPortfolioAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:42:11.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Portfolio.cs",
               "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\DataEntities\\Portfolio.cs",
               "RelativeDocumentMoniker": "GitHubService\\Services\\DataEntities\\Portfolio.cs",
@@ -82,28 +121,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GitHubService.cs",
-              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\GitHubService.cs",
-              "RelativeDocumentMoniker": "GitHubService\\Services\\GitHubService.cs",
-              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\GitHubService.cs",
-              "RelativeToolTip": "GitHubService\\Services\\GitHubService.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAQwHEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "GitHubIntegretionOption.cs",
+              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\GitHubIntegretionOption.cs",
+              "RelativeDocumentMoniker": "GitHubService\\Services\\GitHubIntegretionOption.cs",
+              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\GitHubIntegretionOption.cs",
+              "RelativeToolTip": "GitHubService\\Services\\GitHubIntegretionOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T20:29:05.194Z",
+              "WhenOpened": "2025-02-01T22:08:58.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IGitHubService.cs",
-              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\IGitHubService.cs",
-              "RelativeDocumentMoniker": "GitHubService\\Services\\IGitHubService.cs",
-              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\IGitHubService.cs",
-              "RelativeToolTip": "GitHubService\\Services\\IGitHubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Extenstions.cs",
+              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\Extenstions.cs",
+              "RelativeDocumentMoniker": "GitHubService\\Services\\Extenstions.cs",
+              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\Extenstions.cs",
+              "RelativeToolTip": "GitHubService\\Services\\Extenstions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T20:24:43.741Z",
+              "WhenOpened": "2025-02-01T22:26:04.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CachedGitHubSerivice.cs",
+              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\CachedServices\\CachedGitHubSerivice.cs",
+              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\CachedServices\\CachedGitHubSerivice.cs",
+              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\CachedServices\\CachedGitHubSerivice.cs",
+              "RelativeToolTip": "GitHubPortfolioAPI\\CachedServices\\CachedGitHubSerivice.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA5wC4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T23:11:50.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\appsettings.json",
+              "RelativeToolTip": "GitHubPortfolioAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T21:55:25.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Staging.json",
+              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\appsettings.Staging.json",
+              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\appsettings.Staging.json",
+              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\appsettings.Staging.json",
+              "RelativeToolTip": "GitHubPortfolioAPI\\appsettings.Staging.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T21:55:23.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GitHubController.cs",
+              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\Controllers\\GitHubController.cs",
+              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\Controllers\\GitHubController.cs",
+              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\Controllers\\GitHubController.cs",
+              "RelativeToolTip": "GitHubPortfolioAPI\\Controllers\\GitHubController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:57:13.965Z",
               "EditorCaption": ""
             },
             {
@@ -121,132 +211,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GitHubIntegretionOption.cs",
-              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\GitHubIntegretionOption.cs",
-              "RelativeDocumentMoniker": "GitHubService\\Services\\GitHubIntegretionOption.cs",
-              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\GitHubIntegretionOption.cs",
-              "RelativeToolTip": "GitHubService\\Services\\GitHubIntegretionOption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T22:08:58.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Extenstions.cs",
-              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\Extenstions.cs",
-              "RelativeDocumentMoniker": "GitHubService\\Services\\Extenstions.cs",
-              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\Extenstions.cs",
-              "RelativeToolTip": "GitHubService\\Services\\Extenstions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T22:26:04.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GitHubController.cs",
-              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\Controllers\\GitHubController.cs",
-              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\Controllers\\GitHubController.cs",
-              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\Controllers\\GitHubController.cs",
-              "RelativeToolTip": "GitHubPortfolioAPI\\Controllers\\GitHubController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T20:57:13.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CachedGitHubSerivice.cs",
-              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\CachedServices\\CachedGitHubSerivice.cs",
-              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\CachedServices\\CachedGitHubSerivice.cs",
-              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\CachedServices\\CachedGitHubSerivice.cs",
-              "RelativeToolTip": "GitHubPortfolioAPI\\CachedServices\\CachedGitHubSerivice.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowBMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T23:11:50.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\Program.cs",
-              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\Program.cs",
-              "RelativeToolTip": "GitHubPortfolioAPI\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Title": "IGitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\IGitHubService.cs",
+              "RelativeDocumentMoniker": "GitHubService\\Services\\IGitHubService.cs",
+              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubService\\Services\\IGitHubService.cs",
+              "RelativeToolTip": "GitHubService\\Services\\IGitHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T20:42:11.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\appsettings.json",
-              "RelativeToolTip": "GitHubPortfolioAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-01T21:55:25.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.Staging.json",
-              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\appsettings.Staging.json",
-              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\appsettings.Staging.json",
-              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\appsettings.Staging.json",
-              "RelativeToolTip": "GitHubPortfolioAPI\\appsettings.Staging.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-01T21:55:23.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GitHubPortfolioAPI",
-              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
-              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
-              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
-              "RelativeToolTip": "GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-01T23:11:11.056Z",
+              "WhenOpened": "2025-02-01T20:24:43.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\eyaln\\AppData\\Roaming\\Microsoft\\UserSecrets\\9d83b49c-b9da-4f71-bac7-a3540ddf0e5f\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\9d83b49c-b9da-4f71-bac7-a3540ddf0e5f\\secrets.json",
-              "ToolTip": "C:\\Users\\eyaln\\AppData\\Roaming\\Microsoft\\UserSecrets\\9d83b49c-b9da-4f71-bac7-a3540ddf0e5f\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\9d83b49c-b9da-4f71-bac7-a3540ddf0e5f\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-01T20:10:21.793Z",
-              "EditorCaption": ""
+              "Title": "GitHubPortfolioAPI",
+              "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
+              "RelativeDocumentMoniker": "GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
+              "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
+              "RelativeToolTip": "GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-01T23:11:11.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GitHubPortfolioAPI",
+              "DocumentIndex": 12,
+              "Title": "GitHubPortfolioAPI.csproj",
               "DocumentMoniker": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
               "RelativeDocumentMoniker": "GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
               "ToolTip": "C:\\Users\\eyaln\\source\\repos\\GitHubPortfolioAPI\\GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
               "RelativeToolTip": "GitHubPortfolioAPI\\GitHubPortfolioAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-01T19:56:22.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T19:56:22.774Z"
             }
           ]
         }

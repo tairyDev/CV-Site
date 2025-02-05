@@ -10,3 +10,4 @@ C:\Users\eyaln\source\repos\GitHubPortfolioAPI\GitHubService\obj\Debug\net8.0\Gi
 C:\Users\eyaln\source\repos\GitHubPortfolioAPI\GitHubService\obj\Debug\net8.0\refint\GitHubService.dll
 C:\Users\eyaln\source\repos\GitHubPortfolioAPI\GitHubService\obj\Debug\net8.0\GitHubService.pdb
 C:\Users\eyaln\source\repos\GitHubPortfolioAPI\GitHubService\obj\Debug\net8.0\ref\GitHubService.dll
+C:\Users\eyaln\source\repos\GitHubPortfolioAPI\GitHubService\obj\Debug\net8.0\GitHubService.sourcelink.json
